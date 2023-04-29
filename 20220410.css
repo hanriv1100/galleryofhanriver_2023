@@ -1,0 +1,40 @@
+/*.masthead {
+  display: flex;
+  border: 2px solid aqua;
+  
+}
+
+
+.d-flex {
+  border: 1px solid tomato;
+}*/
+
+/*.snowy {
+  display: flex;
+}*/
+
+/* 이 사진을 배경으로 하려 했음.. */
+
+
+.img-fluid {
+  width: 400px;
+  height: 500px;
+}
+
+.my_gl {
+  margin-left: 122px;
+}
+/*.my_dgl {
+  float: left;
+}*/
+
+.abc {
+  position: relative;
+  height: 1100px;
+}
+
+.recent {
+  position: absolute;
+  width: 100%;
+  height: auto;
+}

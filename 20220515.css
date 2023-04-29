@@ -1,0 +1,63 @@
+/* .recent {
+  height: 1000px;
+} */
+
+/* .carou-g {
+  width: 450px;
+  height: 600px;
+} */
+/* 
+div {
+  border: 2px solid red;
+} */
+/* .embed-youtube {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.embed-youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+} */
+.movingcon {
+  text-align: center;
+}
+#carouselExampleSlidesOnly {
+  margin-bottom: 70px;
+}
+#carouselExampleIndicators {
+  display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  /* width: 450px; */
+  /* height: 600px; */
+}
+.glr_34 {
+  width: 300px;
+  height: 400px;
+}
+.glr_11 {
+  width: 300px;
+  height: 300px;
+}
+.you_t {
+  display: inline-block;
+  text-align: center;
+  margin-top: 70px;
+}
+.apc_poem {
+  margin-top: 70px;
+}
+.myou_t {
+  margin-top: 70px;
+}
+.my_rec {
+  margin-bottom: 100px;
+}
+iframe {
+  height: 300px;
+}
